@@ -481,7 +481,7 @@ Spellman-Biclustering-AE/
 Clone repository:
 
 ```bash
-git clone https://github.com/hannahfathi99/Spellman-Biclustering-AE.git
+git clone https://github.com/hannah-fathi/Spellman-Biclustering-AE.git
 ````
 
 Install dependencies:
